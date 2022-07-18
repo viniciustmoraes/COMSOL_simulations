@@ -1,3 +1,2 @@
 # test-repo
-repositório de teste no github.
-Este repositório será aumentado com o tempo, incluindo novas alterações e testes na plataforma.
+Repositórios com arquivos de simulação COMSOL no laboratório GeePs
