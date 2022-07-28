@@ -1,0 +1,14 @@
+Otimização 19/07
+- Topologia com espaço entre condutor e ferrite de 0.035. Método de Nelder-Mead
+- Valores encontrados: L1 = 0.045000 ; L2 = 0.023670 ; f = 1.8311
+- Resultados: 
+B0 = 6.865e-6 T     -------->     B = 4.1279e-6 T          ==========       39,87%		(Média)
+K0 = 27.743%	     -------->     K = 26.182%	     ==========       -1.56%
+R0 = 86.393 mOhm    -------->     R = 109.68 mOhm	     ==========       26,95%
+
+-------------------------------------------------
+
+Adição da ferrite resulta no aumento do rayonnement, mesmo se comparado com a topologia sem boucles
+
+
+
